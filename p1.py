@@ -7,6 +7,8 @@ else:
 
 a=input("enter a name")
 if a==a[::-1]:
-    print(a,"its palandrom")
+    print(a,"a its palandrom")
 else:
-    print(a,"its not palandrom")
+    print(a,"a its not palandrom")
+   
+
